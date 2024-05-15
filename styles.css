@@ -1,0 +1,26 @@
+body {
+	background-color: lightpink;
+}
+.navbar {
+	padding: 5px;
+	background-color: floralwhite;
+	font-family: "Lora", cursive;
+}
+.header {
+	font-family: "Great Vibes", cursive;
+}
+.description {
+	font-family: "Lora", cursive;
+}
+.login {
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+	width: 500px;
+	background-color: floralwhite;
+	font-family: "Lora", cursive;
+}
+.main {
+	font-family: "Great Vibes", cursive;
+	text-align: center;
+}
